@@ -4,7 +4,7 @@
 
 | | | |
 |- |- |- |
-|![Screenshot-1](./README/Screenshot-1.png) |![Screenshot-2](./README/Screenshot-2.png) |![Screenshot-13](./README/Screenshot-3.png) |
+|![Screenshot-1](./README/Screenshot-1.png) |![Screenshot-2](./README/Screenshot-7.png) |![Screenshot-13](./README/Screenshot-3.png) |
 |![Screenshot-4](./README/Screenshot-4.png) |![Screenshot-5](./README/Screenshot-5.png) |![Screenshot-6](./README/Screenshot-6.png) |
 
 ## 实现功能
