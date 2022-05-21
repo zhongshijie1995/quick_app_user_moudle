@@ -1,4 +1,8 @@
-# Quick_App_User
+# quick_app_user_moudle
+
+TODO: 
+1. 升级Flutter
+2. 调整后端
 
 快速APP之用户界面：助您5分钟即构建一个**跨Android、IOS**的高质量**原生APP**之**用户模块**
 
